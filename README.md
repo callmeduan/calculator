@@ -27,7 +27,7 @@ Clean UI, dark mode, and a minimal layout just like the iPhone calculator.
 Clone the repository and run:
 
 ```bash
-python calculator_ios.py
+python main.py
 ```
 
 ---
