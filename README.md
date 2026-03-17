@@ -24,8 +24,6 @@ Clean UI, dark mode, and a minimal layout just like the iPhone calculator.
 
 ## ▶️ Run the App
 
-Clone the repository and run:
-
 ```bash
 python main.py
 ```
@@ -34,8 +32,16 @@ python main.py
 
 ## 📸 Preview
 
-> iPhone-inspired calculator UI
-> (dark, minimal, responsive)
+![Calculator Preview](assets/calculator.png)
+
+---
+
+## 🚀 Future Improvements
+
+* Keyboard support ⌨️
+* Button animations
+* Calculation history
+* Web version (React + API)
 
 ---
 
