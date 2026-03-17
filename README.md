@@ -36,15 +36,6 @@ python main.py
 
 ---
 
-## 🚀 Future Improvements
-
-* Keyboard support ⌨️
-* Button animations
-* Calculation history
-* Web version (React + API)
-
----
-
 ## 👨‍💻 Author
 
 Built to improve Python and GUI development skills.
