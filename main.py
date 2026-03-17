@@ -1,4 +1,4 @@
-# Calculator based on IOS design
+# Calculator based on IOS design by callmeduan
 
 import tkinter as tk
 
